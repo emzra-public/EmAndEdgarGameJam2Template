@@ -7,7 +7,7 @@ If you need any help you can also join our discord community! https://discord.gg
 Your games will also be streamed on Twitch, all announcements related to that will be made in our discord.
 
 ## Theme
-The theme is TBA.
+The theme is "Reputation is Everything"
 
 ## Challenge
 Use the provided template as a base for your game. You can add, remove and change any part of the template as long as you don't just delete the template entirely to make your own starting point.
